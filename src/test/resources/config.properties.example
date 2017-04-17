@@ -1,0 +1,3 @@
+basicAuth.username=<someUsername>
+basicAuth.password=<password for someUsername>
+tomc.password=<kronos password for tomc>
